@@ -12,7 +12,7 @@ userbot = {
    limit: 100,
    eror: "Sepertinya Eror",
    waits: "Sedang di proses",
-   butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTHDLrd0_DwHnJfuZ_pRMOAbLi3-ot-NxyPA&usqp=CAU', // buat Image Button
+   butmag: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQErkKtddKXFUJUGUwERrlnEKiCYqt3H013Q&usqp=CAU', // buat Image Button
    packname: "RIXLE-BOT OFFICIAL",
    author: '© 2021 - FearTeam',
     setting: {
